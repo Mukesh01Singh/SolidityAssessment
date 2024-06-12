@@ -14,7 +14,7 @@ To get started with the `MyToken` smart contract, follow these steps:
 
 1. Clone the repository from GitHub:
     ```sh
-    git clone https://github.com/Mukesh01Singh/SolidityAssessment/main/)
+    git clone https://github.com/Mukesh01Singh/SolidityAssessment.git
     ```
 2. Navigate to the project directory:
     ```sh
@@ -73,4 +73,4 @@ For any issues or common problems, refer to the following command to get helper 
 ### Authors
 Mukesh Singh - Initial work
 ### License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
