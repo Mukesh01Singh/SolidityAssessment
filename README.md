@@ -18,7 +18,7 @@ To get started with the `MyToken` smart contract, follow these steps:
     ```
 2. Navigate to the project directory:
     ```sh
-    cd MyToken
+    cd Solidity
     ```
 
 ### Executing Program
